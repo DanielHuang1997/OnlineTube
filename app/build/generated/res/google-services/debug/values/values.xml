@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">474907995607-tgg0eoeten16jmr2u729buee03l7pcf2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://onlinetube-44c09.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">474907995607</string>
+    <string name="google_api_key" translatable="false">AIzaSyCDhWzlhX4kkiRCaeA1jbf2KmAnZ8dQr2o</string>
+    <string name="google_app_id" translatable="false">1:474907995607:android:3b9485183fb1f3e40faf92</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCDhWzlhX4kkiRCaeA1jbf2KmAnZ8dQr2o</string>
+    <string name="google_storage_bucket" translatable="false">onlinetube-44c09.appspot.com</string>
+    <string name="project_id" translatable="false">onlinetube-44c09</string>
+</resources>

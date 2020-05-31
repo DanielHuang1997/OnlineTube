@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tuanhav95:DragView:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d21ec1be4a8d13617800b87783d5a3a/jetified-DragView-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d21ec1be4a8d13617800b87783d5a3a/jetified-DragView-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tuanhav95/DragView/1.1.0/7082309281b5666b40ad82c86d87e5af7c33d039/DragView-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OnlineTube</string>
+    <string name="path">android.resource://com.daniel_huang.onlinetube/raw/</string>
+
+
+    <string-array name="video">
+        <item>milk</item>
+        <item>camera</item>
+        <item>water</item>
+        <item>design</item>
+        <item>spaceship</item>
+    </string-array>
+
+    <string-array name="videoURL">
+        <item>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</item>
+        <item>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</item>
+        <item>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4</item>
+        <item>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4</item>
+        <item>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4</item>
+    </string-array>
+
+    <string-array name="video_title">
+        <item> Big Buck Bunny </item>
+        <item> Elephant Dream </item>
+        <item> For Bigger Blazes </item>
+        <item> For Bigger Escape </item>
+        <item> For Bigger Fun </item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,371 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.tuanhav95:DragView:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4d21ec1be4a8d13617800b87783d5a3a\jetified-DragView-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.shuyu:GSYVideoPlayer:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2101ba236bdf66aebb312c9b5bc587c2\jetified-GSYVideoPlayer-7.1.4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\6e69af397371c607924417b4e4979668\material-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\434a8ebd0bdb8e83cf7ce87b99116a31\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9ca6d9c9c20998b2f764b6ad74a10177\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9f7faf9e538fbbd199e2e0297a4126dd\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\48dbc9468f96fe18b99e82a5430b6440\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\eaef7e5475288bdbfa42199c3ec7f169\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b9368830ac7eb0ce50f2070abe71cf30\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\61bdb9f6e408c1aa18637d7f2108aee2\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\5d81e4444d0f42c19ec7b6c93e7f2641\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9e786aa1b0e83b88d180811c554b82c6\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\241fc8e36277cae15c8f726ab4eb7b6e\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\ae057d0c2fc17f4e9b7b31a3f620a461\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\c76c235f6bbc3cfb556b2af810a22efe\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\182cc63a4d335a07851eb64a123597b0\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\d75e534e4220ee0f01df9db538fc5393\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\7901eeb32979cb3a237eeacada7eae48\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\0e651318d5182ec07bb6880b783025f8\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\87b8d425c5214fdf768d9a49c61db218\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\28d8dfbb9a3afbbc5267c4d688784f03\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\77ee5437e396072d47687f2406d873a4\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4a1c2d0f2ba8893b12f1451aca87650f\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\aa754b015020262d202b5a9ed0734ca2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2079f35556ef13ca8efd00debc6dfe06\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2957d6753b63531f6f5f738c801e2021\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.andkulikov:transitionseverywhere:2.0.0-beta01] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b5780bd2bf29f4b6ea227a0ac15c4d98\jetified-transitionseverywhere-2.0.0-beta01\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8c6c57f999eb7bd9bf432fd33b381d44\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.shuyu:GSYVideoPlayer-exo2:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f1894f6f66ab555d144bc4f17cef4174\jetified-GSYVideoPlayer-exo2-7.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8c91f19a3e59ef4552fd764b7f1b99f5\jetified-ijkplayer-exo-0.8.8\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\317bed250af4c932b84d4ba78dbfabe8\jetified-exoplayer-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\1d3ae9b0e32d1b6096181317bad8e082\jetified-exoplayer-ui-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\948d420d62f82a0569c6b6ce47e72cc2\media-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\28c364c6a977dc65d48a7ff1b3b0ddde\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4159605c371c9d664f5483684e0d8076\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\de4dc03361e0005bca8a80cd20b360c9\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\e90ed4649e81ec7343b91e73ac68920d\jetified-extension-rtmp-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\c509641747665edc3f3fe8d757653cf7\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\66435b2c39017f80e77aaf26a5ae009c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\6d31de74ee2b522a691fc9bae25ce076\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f09edfa94da321f46330cf62404e899f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\94896e4b250e0dde8cbb96543e58b456\jetified-exoplayer-dash-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\73049b098db1101b1358becbf8701bf2\jetified-exoplayer-hls-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8a25b0f1da6668e4194fac9cf8bf2ab7\jetified-exoplayer-smoothstreaming-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\fa2e42199b149cf51e2df36f5222d144\jetified-exoplayer-core-2.11.3\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f15847e145ffff4a0ed23141f5e439e9\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\a22be89e0235e39ca0e2f6cbdbd26f6b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2166cbf07f3feb26e8dcf2505b1b9c03\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\3d42d645ae3bdc246fe05001aae57a92\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\89c56f234f81a0f12f736230823b49e2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\fb6877c77963ef5f4854283c74ba6d5d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.shuyu:gsyVideoPlayer-armv5:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9d70dff1192dc7b35cec82ecce90a3a5\jetified-gsyVideoPlayer-armv5-7.1.4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-armv7a:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8fe8a7382e3cd91e4725f7c34d3bffa6\jetified-gsyVideoPlayer-armv7a-7.1.4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-arm64:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2f6b2dc75683e2fc36c87fff80a16bf2\jetified-gsyVideoPlayer-arm64-7.1.4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-x64:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\67bae6eba9a3f47f6cbe17d0c1165357\jetified-gsyVideoPlayer-x64-7.1.4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-x86:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\a49a406c32f17eab103a2f4f59ac74f0\jetified-gsyVideoPlayer-x86-7.1.4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-base:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\7619af6e6c8727454804c440d758ec94\jetified-gsyVideoPlayer-base-7.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\879f8cfea4862f2a3ce5bb6c6aeac4a8\jetified-ijkplayer-java-0.8.8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\52efb7acfd2e1ebbe5d7e541573b9669\jetified-gsyvideoplayer-androidvideocache-7.1.4\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f55647aa038ab53ca1acbd39a2117cc5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\940562a59ca97fc880436d29ac0019fa\jetified-rtmp-client-3.1.0\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:27:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\940562a59ca97fc880436d29ac0019fa\jetified-rtmp-client-3.1.0\AndroidManifest.xml:11:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\940562a59ca97fc880436d29ac0019fa\jetified-rtmp-client-3.1.0\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.shuyu:GSYVideoPlayer:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2101ba236bdf66aebb312c9b5bc587c2\jetified-GSYVideoPlayer-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:GSYVideoPlayer:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2101ba236bdf66aebb312c9b5bc587c2\jetified-GSYVideoPlayer-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:13:5-17:19
+MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:13:5-17:19
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\6e69af397371c607924417b4e4979668\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\6e69af397371c607924417b4e4979668\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9f7faf9e538fbbd199e2e0297a4126dd\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9f7faf9e538fbbd199e2e0297a4126dd\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\5d81e4444d0f42c19ec7b6c93e7f2641\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\5d81e4444d0f42c19ec7b6c93e7f2641\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9e786aa1b0e83b88d180811c554b82c6\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9e786aa1b0e83b88d180811c554b82c6\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\241fc8e36277cae15c8f726ab4eb7b6e\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\241fc8e36277cae15c8f726ab4eb7b6e\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\ae057d0c2fc17f4e9b7b31a3f620a461\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\ae057d0c2fc17f4e9b7b31a3f620a461\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.andkulikov:transitionseverywhere:2.0.0-beta01] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b5780bd2bf29f4b6ea227a0ac15c4d98\jetified-transitionseverywhere-2.0.0-beta01\AndroidManifest.xml:11:5-20
+MERGED from [com.andkulikov:transitionseverywhere:2.0.0-beta01] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b5780bd2bf29f4b6ea227a0ac15c4d98\jetified-transitionseverywhere-2.0.0-beta01\AndroidManifest.xml:11:5-20
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8c91f19a3e59ef4552fd764b7f1b99f5\jetified-ijkplayer-exo-0.8.8\AndroidManifest.xml:9:5-13:19
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8c91f19a3e59ef4552fd764b7f1b99f5\jetified-ijkplayer-exo-0.8.8\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\28c364c6a977dc65d48a7ff1b3b0ddde\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\28c364c6a977dc65d48a7ff1b3b0ddde\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\de4dc03361e0005bca8a80cd20b360c9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\de4dc03361e0005bca8a80cd20b360c9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.shuyu:gsyVideoPlayer-armv5:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9d70dff1192dc7b35cec82ecce90a3a5\jetified-gsyVideoPlayer-armv5-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-armv5:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9d70dff1192dc7b35cec82ecce90a3a5\jetified-gsyVideoPlayer-armv5-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-armv7a:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8fe8a7382e3cd91e4725f7c34d3bffa6\jetified-gsyVideoPlayer-armv7a-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-armv7a:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8fe8a7382e3cd91e4725f7c34d3bffa6\jetified-gsyVideoPlayer-armv7a-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-arm64:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2f6b2dc75683e2fc36c87fff80a16bf2\jetified-gsyVideoPlayer-arm64-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-arm64:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2f6b2dc75683e2fc36c87fff80a16bf2\jetified-gsyVideoPlayer-arm64-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-x64:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\67bae6eba9a3f47f6cbe17d0c1165357\jetified-gsyVideoPlayer-x64-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-x64:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\67bae6eba9a3f47f6cbe17d0c1165357\jetified-gsyVideoPlayer-x64-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-x86:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\a49a406c32f17eab103a2f4f59ac74f0\jetified-gsyVideoPlayer-x86-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-x86:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\a49a406c32f17eab103a2f4f59ac74f0\jetified-gsyVideoPlayer-x86-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\52efb7acfd2e1ebbe5d7e541573b9669\jetified-gsyvideoplayer-androidvideocache-7.1.4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\52efb7acfd2e1ebbe5d7e541573b9669\jetified-gsyvideoplayer-androidvideocache-7.1.4\AndroidManifest.xml:11:5-15:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\28c364c6a977dc65d48a7ff1b3b0ddde\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:15:9-44
+activity#com.daniel_huang.onlinetube.DownloadActivity
+ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:16:9-63
+	android:name
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:16:19-51
+activity#com.daniel_huang.onlinetube.MainActivity
+ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:20:13-47
+	android:configChanges
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:19:13-122
+	android:name
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+MERGED from [com.github.tuanhav95:DragView:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4d21ec1be4a8d13617800b87783d5a3a\jetified-DragView-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tuanhav95:DragView:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4d21ec1be4a8d13617800b87783d5a3a\jetified-DragView-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:GSYVideoPlayer:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2101ba236bdf66aebb312c9b5bc587c2\jetified-GSYVideoPlayer-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:GSYVideoPlayer:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2101ba236bdf66aebb312c9b5bc587c2\jetified-GSYVideoPlayer-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\6e69af397371c607924417b4e4979668\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\6e69af397371c607924417b4e4979668\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\434a8ebd0bdb8e83cf7ce87b99116a31\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\434a8ebd0bdb8e83cf7ce87b99116a31\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9ca6d9c9c20998b2f764b6ad74a10177\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9ca6d9c9c20998b2f764b6ad74a10177\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9f7faf9e538fbbd199e2e0297a4126dd\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9f7faf9e538fbbd199e2e0297a4126dd\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\48dbc9468f96fe18b99e82a5430b6440\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\48dbc9468f96fe18b99e82a5430b6440\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\eaef7e5475288bdbfa42199c3ec7f169\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\eaef7e5475288bdbfa42199c3ec7f169\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b9368830ac7eb0ce50f2070abe71cf30\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b9368830ac7eb0ce50f2070abe71cf30\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\61bdb9f6e408c1aa18637d7f2108aee2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\61bdb9f6e408c1aa18637d7f2108aee2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\5d81e4444d0f42c19ec7b6c93e7f2641\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\5d81e4444d0f42c19ec7b6c93e7f2641\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9e786aa1b0e83b88d180811c554b82c6\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9e786aa1b0e83b88d180811c554b82c6\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\241fc8e36277cae15c8f726ab4eb7b6e\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\241fc8e36277cae15c8f726ab4eb7b6e\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\ae057d0c2fc17f4e9b7b31a3f620a461\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\ae057d0c2fc17f4e9b7b31a3f620a461\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\c76c235f6bbc3cfb556b2af810a22efe\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\c76c235f6bbc3cfb556b2af810a22efe\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\182cc63a4d335a07851eb64a123597b0\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\182cc63a4d335a07851eb64a123597b0\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\d75e534e4220ee0f01df9db538fc5393\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\d75e534e4220ee0f01df9db538fc5393\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\7901eeb32979cb3a237eeacada7eae48\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\7901eeb32979cb3a237eeacada7eae48\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\0e651318d5182ec07bb6880b783025f8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\0e651318d5182ec07bb6880b783025f8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\87b8d425c5214fdf768d9a49c61db218\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\87b8d425c5214fdf768d9a49c61db218\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\28d8dfbb9a3afbbc5267c4d688784f03\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\28d8dfbb9a3afbbc5267c4d688784f03\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\77ee5437e396072d47687f2406d873a4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\77ee5437e396072d47687f2406d873a4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4a1c2d0f2ba8893b12f1451aca87650f\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4a1c2d0f2ba8893b12f1451aca87650f\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\aa754b015020262d202b5a9ed0734ca2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\aa754b015020262d202b5a9ed0734ca2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2079f35556ef13ca8efd00debc6dfe06\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2079f35556ef13ca8efd00debc6dfe06\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2957d6753b63531f6f5f738c801e2021\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2957d6753b63531f6f5f738c801e2021\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.andkulikov:transitionseverywhere:2.0.0-beta01] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b5780bd2bf29f4b6ea227a0ac15c4d98\jetified-transitionseverywhere-2.0.0-beta01\AndroidManifest.xml:7:5-9:41
+MERGED from [com.andkulikov:transitionseverywhere:2.0.0-beta01] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b5780bd2bf29f4b6ea227a0ac15c4d98\jetified-transitionseverywhere-2.0.0-beta01\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8c6c57f999eb7bd9bf432fd33b381d44\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8c6c57f999eb7bd9bf432fd33b381d44\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.shuyu:GSYVideoPlayer-exo2:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f1894f6f66ab555d144bc4f17cef4174\jetified-GSYVideoPlayer-exo2-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:GSYVideoPlayer-exo2:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f1894f6f66ab555d144bc4f17cef4174\jetified-GSYVideoPlayer-exo2-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8c91f19a3e59ef4552fd764b7f1b99f5\jetified-ijkplayer-exo-0.8.8\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8c91f19a3e59ef4552fd764b7f1b99f5\jetified-ijkplayer-exo-0.8.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\317bed250af4c932b84d4ba78dbfabe8\jetified-exoplayer-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\317bed250af4c932b84d4ba78dbfabe8\jetified-exoplayer-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\1d3ae9b0e32d1b6096181317bad8e082\jetified-exoplayer-ui-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\1d3ae9b0e32d1b6096181317bad8e082\jetified-exoplayer-ui-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\948d420d62f82a0569c6b6ce47e72cc2\media-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\948d420d62f82a0569c6b6ce47e72cc2\media-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\28c364c6a977dc65d48a7ff1b3b0ddde\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\28c364c6a977dc65d48a7ff1b3b0ddde\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4159605c371c9d664f5483684e0d8076\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4159605c371c9d664f5483684e0d8076\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\de4dc03361e0005bca8a80cd20b360c9\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\de4dc03361e0005bca8a80cd20b360c9\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\e90ed4649e81ec7343b91e73ac68920d\jetified-extension-rtmp-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\e90ed4649e81ec7343b91e73ac68920d\jetified-extension-rtmp-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\c509641747665edc3f3fe8d757653cf7\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\c509641747665edc3f3fe8d757653cf7\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\66435b2c39017f80e77aaf26a5ae009c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\66435b2c39017f80e77aaf26a5ae009c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\6d31de74ee2b522a691fc9bae25ce076\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\6d31de74ee2b522a691fc9bae25ce076\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f09edfa94da321f46330cf62404e899f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f09edfa94da321f46330cf62404e899f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\94896e4b250e0dde8cbb96543e58b456\jetified-exoplayer-dash-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\94896e4b250e0dde8cbb96543e58b456\jetified-exoplayer-dash-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\73049b098db1101b1358becbf8701bf2\jetified-exoplayer-hls-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\73049b098db1101b1358becbf8701bf2\jetified-exoplayer-hls-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8a25b0f1da6668e4194fac9cf8bf2ab7\jetified-exoplayer-smoothstreaming-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8a25b0f1da6668e4194fac9cf8bf2ab7\jetified-exoplayer-smoothstreaming-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\fa2e42199b149cf51e2df36f5222d144\jetified-exoplayer-core-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\fa2e42199b149cf51e2df36f5222d144\jetified-exoplayer-core-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f15847e145ffff4a0ed23141f5e439e9\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f15847e145ffff4a0ed23141f5e439e9\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\a22be89e0235e39ca0e2f6cbdbd26f6b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\a22be89e0235e39ca0e2f6cbdbd26f6b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2166cbf07f3feb26e8dcf2505b1b9c03\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2166cbf07f3feb26e8dcf2505b1b9c03\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\3d42d645ae3bdc246fe05001aae57a92\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\3d42d645ae3bdc246fe05001aae57a92\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\89c56f234f81a0f12f736230823b49e2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\89c56f234f81a0f12f736230823b49e2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\fb6877c77963ef5f4854283c74ba6d5d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\fb6877c77963ef5f4854283c74ba6d5d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.shuyu:gsyVideoPlayer-armv5:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9d70dff1192dc7b35cec82ecce90a3a5\jetified-gsyVideoPlayer-armv5-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-armv5:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9d70dff1192dc7b35cec82ecce90a3a5\jetified-gsyVideoPlayer-armv5-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-armv7a:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8fe8a7382e3cd91e4725f7c34d3bffa6\jetified-gsyVideoPlayer-armv7a-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-armv7a:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\8fe8a7382e3cd91e4725f7c34d3bffa6\jetified-gsyVideoPlayer-armv7a-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-arm64:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2f6b2dc75683e2fc36c87fff80a16bf2\jetified-gsyVideoPlayer-arm64-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-arm64:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2f6b2dc75683e2fc36c87fff80a16bf2\jetified-gsyVideoPlayer-arm64-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-x64:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\67bae6eba9a3f47f6cbe17d0c1165357\jetified-gsyVideoPlayer-x64-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-x64:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\67bae6eba9a3f47f6cbe17d0c1165357\jetified-gsyVideoPlayer-x64-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-x86:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\a49a406c32f17eab103a2f4f59ac74f0\jetified-gsyVideoPlayer-x86-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-x86:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\a49a406c32f17eab103a2f4f59ac74f0\jetified-gsyVideoPlayer-x86-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-base:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\7619af6e6c8727454804c440d758ec94\jetified-gsyVideoPlayer-base-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-base:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\7619af6e6c8727454804c440d758ec94\jetified-gsyVideoPlayer-base-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\879f8cfea4862f2a3ce5bb6c6aeac4a8\jetified-ijkplayer-java-0.8.8\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\879f8cfea4862f2a3ce5bb6c6aeac4a8\jetified-ijkplayer-java-0.8.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\52efb7acfd2e1ebbe5d7e541573b9669\jetified-gsyvideoplayer-androidvideocache-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\52efb7acfd2e1ebbe5d7e541573b9669\jetified-gsyvideoplayer-androidvideocache-7.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f55647aa038ab53ca1acbd39a2117cc5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f55647aa038ab53ca1acbd39a2117cc5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\940562a59ca97fc880436d29ac0019fa\jetified-rtmp-client-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\940562a59ca97fc880436d29ac0019fa\jetified-rtmp-client-3.1.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\fa2e42199b149cf51e2df36f5222d144\jetified-exoplayer-core-2.11.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.3] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\fa2e42199b149cf51e2df36f5222d144\jetified-exoplayer-core-2.11.3\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:11:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:31:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:34:17-107
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9e786aa1b0e83b88d180811c554b82c6\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9e786aa1b0e83b88d180811c554b82c6\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9e786aa1b0e83b88d180811c554b82c6\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\9e786aa1b0e83b88d180811c554b82c6\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bbf7540012ce1ee5c2bc77fbcaa6783e\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\ae057d0c2fc17f4e9b7b31a3f620a461\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\ae057d0c2fc17f4e9b7b31a3f620a461\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\ae057d0c2fc17f4e9b7b31a3f620a461\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

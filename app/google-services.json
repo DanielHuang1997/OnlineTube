@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474907995607",
+    "firebase_url": "https://onlinetube-44c09.firebaseio.com",
+    "project_id": "onlinetube-44c09",
+    "storage_bucket": "onlinetube-44c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474907995607:android:3b9485183fb1f3e40faf92",
+        "android_client_info": {
+          "package_name": "com.daniel_huang.onlinetube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474907995607-tgg0eoeten16jmr2u729buee03l7pcf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDhWzlhX4kkiRCaeA1jbf2KmAnZ8dQr2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474907995607-tgg0eoeten16jmr2u729buee03l7pcf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

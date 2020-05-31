@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/relative"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="80dp"/>
+
+    <View
+        android:id="@+id/videoViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFF"/>
+
+    <com.daniel_huang.onlinetube.customdrag.CustomDragView
+        android:id="@+id/dragView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:height_when_max="300dp"
+        app:height_when_min="70dp"
+        app:state="MIN"/>
+
+</RelativeLayout>
