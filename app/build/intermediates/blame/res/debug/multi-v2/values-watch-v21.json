@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tauru\\Desktop\\OnlineTube\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "outputFile": "E:\\AndroidStudioProject\\OnlineTube\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tauru\\.gradle\\caches\\transforms-2\\files-2.1\\434a8ebd0bdb8e83cf7ce87b99116a31\\appcompat-1.1.0\\res\\values-watch-v21\\values-watch-v21.xml",

@@ -40,7 +40,7 @@ class VideoFragment(var position:Int = 0) : Fragment(){
             stringarray.add(path[i])
         }
         if (stringarray.isNotEmpty()){
-            video_page.setUp(stringarray[position],true,"")
+            video_page.setUp(stringarray[position],false,"")
             video_page.backButton.visibility = View.GONE
             video_page.startPlayLogic()
             //video_page

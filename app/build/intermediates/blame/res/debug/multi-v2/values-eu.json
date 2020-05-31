@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tauru\\Desktop\\OnlineTube\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "E:\\AndroidStudioProject\\OnlineTube\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tauru\\.gradle\\caches\\transforms-2\\files-2.1\\28c364c6a977dc65d48a7ff1b3b0ddde\\core-1.2.0\\res\\values-eu\\values-eu.xml",

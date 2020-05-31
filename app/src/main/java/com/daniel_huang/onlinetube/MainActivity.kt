@@ -1,16 +1,22 @@
 package com.daniel_huang.onlinetube
 
+import android.Manifest
+import android.content.pm.PackageManager
 import android.graphics.Rect
 import android.os.Bundle
+import android.os.Environment
 import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.app.ActivityCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.downloadservice.filedownloadservice.manager.FileDownloadManager
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.tuanhav95.drag.DragView
 import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.fragment_videotext.*
 import kotlinx.android.synthetic.main.layout_player.*
 import kotlinx.android.synthetic.main.layout_player_background.*
 import kotlinx.android.synthetic.main.module_video_layout.view.*
@@ -19,24 +25,29 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import org.json.JSONArray
 import java.io.BufferedReader
+import java.io.File
 import java.net.URL
+import java.text.SimpleDateFormat
 import java.util.*
 import kotlin.collections.ArrayList
 
 class MainActivity : AppCompatActivity() {
 
     private lateinit var videoData :CategoriesItem
-
+    private val STORAGE_PERMISSION_CODE:Int = 1001
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+
+
 
             InitData()
             RecyclerListener()
 
             dragView.close()
             DragViewListener()
-            VideoURL()
+            //VideoURL()
     }
 
 
@@ -123,7 +134,7 @@ class MainActivity : AppCompatActivity() {
 
 
                     }else{
-                        //Toast.makeText(this@MainActivity,"Loading...", Toast.LENGTH_LONG).show()
+                        Toast.makeText(this@MainActivity,"Loading...", Toast.LENGTH_LONG).show()
                     }
 
                     //防止例外
@@ -138,18 +149,18 @@ class MainActivity : AppCompatActivity() {
 
     fun initDragView(position:Int = 0){
         supportFragmentManager.beginTransaction().add(R.id.player_frame,VideoFragment(position)).commit()
-        supportFragmentManager.beginTransaction().add(R.id.player_background_frame,VideoTextFragment()).commit()
+        supportFragmentManager.beginTransaction().add(R.id.player_background_frame,VideoTextFragment(position)).commit()
     }
 
-    fun VideoURL() {
-        CoroutineScope(Dispatchers.IO).launch {
-            val reader =
-                URL("https://drive.google.com/file/d/1k5pd92XQRP4BzSaE35AiCMK8yZu58JdB/view?usp=sharing")
-                    .readText().replace(" ","")
-            videoData = Gson().fromJson<CategoriesItem>(reader, object : TypeToken<CategoriesItem>(){}.type)
-            Log.d("GetJSON", videoData.name.toString())
-        }
-    }
+//    fun VideoURL() {
+//        CoroutineScope(Dispatchers.IO).launch {
+//            val reader =
+//                URL("https://raw.githubusercontent.com/DanielHuang1997/OnlineTube/master/data.json")
+//                    .readText().replace(" ","")
+//            videoData = Gson().fromJson<CategoriesItem>(reader, object : TypeToken<CategoriesItem>(){}.type)
+//            Log.d("GetJSON", videoData.name.toString())
+//        }
+//    }
 
     private fun DragViewListener() {
         dragView.setDragListener(object : DragView.DragListener {
@@ -162,13 +173,53 @@ class MainActivity : AppCompatActivity() {
                 super.onChangeState(state)
             }
         })
+
+        Download.setOnClickListener {
+
+            val permission = ActivityCompat.checkSelfPermission(MainActivity(),
+                Manifest.permission.WRITE_EXTERNAL_STORAGE
+            )
+            if (permission == PackageManager.PERMISSION_GRANTED){
+                startDownload(position)
+            }else{
+                ActivityCompat.requestPermissions(MainActivity(), arrayOf(Manifest.permission.WRITE_EXTERNAL_STORAGE),STORAGE_PERMISSION_CODE)
+            }
+        }
+
         Close.setOnClickListener {
             dragView.close()
+            //Destory Fragment
 
         }
     }
 
+    private fun startDownload(position: Int) {
+        val url = resources.getStringArray(R.array.videoURL)
+        val stringarray : java.util.ArrayList<String> = java.util.ArrayList()
+        for (i in 0..4) {
+            stringarray.add(url[i])
+        }
+        val folder = File(Environment.getExternalStorageDirectory().toString() + "/" + "OnlineTube")
+        if (!folder.exists()){
+            folder.mkdirs()
+        }
+        val fileName = SimpleDateFormat("yyyy.MM.dd.HH.mm").format(Date()) + ".mp4"
+        FileDownloadManager.initDownload(MainActivity(),stringarray[position],folder.absolutePath,fileName)
+    }
 
+    override fun onRequestPermissionsResult(
+        requestCode: Int,
+        permissions: Array<out String>,
+        grantResults: IntArray
+    ) {
+        if (requestCode == STORAGE_PERMISSION_CODE){
+            if (grantResults.size > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED){
+                startDownload(position)
+            }else{
+                Log.d("Permission Error","Permission Denied")
+            }
+        }
+    }
 
 
 }

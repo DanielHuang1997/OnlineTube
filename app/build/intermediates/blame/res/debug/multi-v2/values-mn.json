@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tauru\\Desktop\\OnlineTube\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+            "outputFile": "E:\\AndroidStudioProject\\OnlineTube\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tauru\\.gradle\\caches\\transforms-2\\files-2.1\\ae057d0c2fc17f4e9b7b31a3f620a461\\jetified-play-services-basement-17.0.0\\res\\values-mn\\values.xml",

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.naumanmir:filedownloadservice:1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b22c1442d0ac540546a4e5e410fc581f/jetified-filedownloadservice-1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b22c1442d0ac540546a4e5e410fc581f/jetified-filedownloadservice-1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.naumanmir/filedownloadservice/1.2/8af507c27ae2f4c309e8e7d72850b7185cc08110/filedownloadservice-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

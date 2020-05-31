@@ -1,10 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.github.tuanhav95:DragView:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4d21ec1be4a8d13617800b87783d5a3a\jetified-DragView-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.naumanmir:filedownloadservice:1.2] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b22c1442d0ac540546a4e5e410fc581f\jetified-filedownloadservice-1.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.shuyu:GSYVideoPlayer:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2101ba236bdf66aebb312c9b5bc587c2\jetified-GSYVideoPlayer-7.1.4\AndroidManifest.xml:2:1-17:12
 MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\6e69af397371c607924417b4e4979668\material-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
@@ -68,37 +69,37 @@ MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\tauru\.gradle\c
 MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\52efb7acfd2e1ebbe5d7e541573b9669\jetified-gsyvideoplayer-androidvideocache-7.1.4\AndroidManifest.xml:2:1-17:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f55647aa038ab53ca1acbd39a2117cc5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\940562a59ca97fc880436d29ac0019fa\jetified-rtmp-client-3.1.0\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:3:5-42
-		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:27:5-67
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:27:5-67
 MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\940562a59ca97fc880436d29ac0019fa\jetified-rtmp-client-3.1.0\AndroidManifest.xml:11:5-67
 MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\940562a59ca97fc880436d29ac0019fa\jetified-rtmp-client-3.1.0\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:6:5-81
+ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:6:22-78
 application
-ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:8:5-28:19
+ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:8:5-28:19
 MERGED from [com.shuyu:GSYVideoPlayer:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2101ba236bdf66aebb312c9b5bc587c2\jetified-GSYVideoPlayer-7.1.4\AndroidManifest.xml:11:5-15:19
 MERGED from [com.shuyu:GSYVideoPlayer:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2101ba236bdf66aebb312c9b5bc587c2\jetified-GSYVideoPlayer-7.1.4\AndroidManifest.xml:11:5-15:19
 MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:13:5-17:19
@@ -142,47 +143,49 @@ MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.4] C:\Users\tauru\.g
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\28c364c6a977dc65d48a7ff1b3b0ddde\core-1.2.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:14:9-40
 	android:usesCleartextTraffic
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:15:9-44
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:15:9-44
 activity#com.daniel_huang.onlinetube.DownloadActivity
-ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:16:9-63
+ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:16:9-63
 	android:name
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:16:19-51
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:16:19-51
 activity#com.daniel_huang.onlinetube.MainActivity
-ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:17:9-26:20
+ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:17:9-26:20
 	android:screenOrientation
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:20:13-47
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:20:13-47
 	android:configChanges
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:19:13-122
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:19:13-122
 	android:name
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:18:13-41
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml:24:27-74
 uses-sdk
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
 MERGED from [com.github.tuanhav95:DragView:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4d21ec1be4a8d13617800b87783d5a3a\jetified-DragView-1.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.tuanhav95:DragView:1.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\4d21ec1be4a8d13617800b87783d5a3a\jetified-DragView-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.naumanmir:filedownloadservice:1.2] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b22c1442d0ac540546a4e5e410fc581f\jetified-filedownloadservice-1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.naumanmir:filedownloadservice:1.2] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\b22c1442d0ac540546a4e5e410fc581f\jetified-filedownloadservice-1.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.shuyu:GSYVideoPlayer:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2101ba236bdf66aebb312c9b5bc587c2\jetified-GSYVideoPlayer-7.1.4\AndroidManifest.xml:7:5-9:41
 MERGED from [com.shuyu:GSYVideoPlayer:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\2101ba236bdf66aebb312c9b5bc587c2\jetified-GSYVideoPlayer-7.1.4\AndroidManifest.xml:7:5-9:41
 MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:7:5-9:41
@@ -309,16 +312,16 @@ MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tauru\.
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\f55647aa038ab53ca1acbd39a2117cc5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\940562a59ca97fc880436d29ac0019fa\jetified-rtmp-client-3.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\940562a59ca97fc880436d29ac0019fa\jetified-rtmp-client-3.1.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\tauru\Desktop\OnlineTube\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProject\OnlineTube\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.shuyu:gsyVideoPlayer-java:7.1.4] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\42f0d377d93b8c454da553b824273cea\jetified-gsyVideoPlayer-java-7.1.4\AndroidManifest.xml:11:5-79
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\tauru\.gradle\caches\transforms-2\files-2.1\bb4f4bcc3611cc48cc117658d56aaaf4\jetified-firebase-storage-19.1.1\AndroidManifest.xml:26:5-79

@@ -1625,7 +1625,10 @@ id BOTTOM_START
 id CLOSE
 id CTRL
 id Close
+id DeleteDownload
+id Download
 id FUNCTION
+id ListDownload
 id MAX
 id META
 id MIN
@@ -1633,6 +1636,7 @@ id SHIFT
 id SYM
 id TOP_END
 id TOP_START
+id VideoTextTitle
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -1708,7 +1712,6 @@ id beginning
 id blocking
 id bottom
 id bottom_progressbar
-id button
 id buttonPanel
 id cancel_action
 id cancel_button
@@ -1971,8 +1974,6 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView
-id textView2
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
