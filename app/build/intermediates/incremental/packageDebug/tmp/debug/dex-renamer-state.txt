@@ -1,7 +1,7 @@
-#Mon Jun 01 04:32:39 CST 2020
-base.0=E\:\\AndroidStudioProject\\OnlineTube\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Mon Jun 01 17:46:41 CST 2020
+base.0=/Users/cy0000948/Downloads/OnlineTube-master/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=E\:\\AndroidStudioProject\\OnlineTube\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=/Users/cy0000948/Downloads/OnlineTube-master/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

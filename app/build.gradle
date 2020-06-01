@@ -44,7 +44,8 @@ dependencies {
     implementation files('YouTubeAndroidPlayerApi.jar')
     implementation 'com.shuyu:GSYVideoPlayer:7.1.4'
     implementation 'com.github.tuanhav95:DragView:1.1.0'
-    implementation 'com.github.naumanmir:filedownloadservice:1.2'
+    implementation 'com.mindorks.android:prdownloader:0.6.0'
+
 
     testImplementation 'junit:junit:4.13'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'

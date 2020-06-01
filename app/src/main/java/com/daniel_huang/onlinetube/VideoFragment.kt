@@ -7,11 +7,20 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.LinearLayoutManager
+import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
+import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.fragment_video.*
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+import java.net.URL
 import java.util.*
 
 class VideoFragment(var position:Int = 0) : Fragment(){
-
+    private lateinit var movies : List<VideosItem>
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -34,19 +43,22 @@ class VideoFragment(var position:Int = 0) : Fragment(){
     }
 
     fun initData(position: Int){
-        val path = resources.getStringArray(R.array.videoURL)
-        val stringarray : ArrayList<String> = ArrayList()
-        for (i in 0..4) {
-            stringarray.add(path[i])
+        CoroutineScope(Dispatchers.IO).launch {
+            val json = URL("https://raw.githubusercontent.com/DanielHuang1997/OnlineTube/master/data.json")
+                .readText()
+            val videoResult = Gson().fromJson<VideoDB>(json, object : TypeToken<VideoDB>(){}.type)
+            Log.d("Error",videoResult.videos.toString())
+            movies = videoResult.videos
+
+            withContext(Dispatchers.Main){
+                video_page.setUp(movies.get(position).sources,true,"")
+                video_page.startPlayLogic()
+                video_page.backButton.visibility = View.GONE
+
+            }
         }
-        if (stringarray.isNotEmpty()){
-            video_page.setUp(stringarray[position],false,"")
-            video_page.backButton.visibility = View.GONE
-            video_page.startPlayLogic()
-            //video_page
-        }else{
-            Toast.makeText(MainActivity(),"Their is no video available", Toast.LENGTH_LONG).show()
-        }
+
+
     }
 
 
