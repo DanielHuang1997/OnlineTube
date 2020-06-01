@@ -23,9 +23,7 @@
       },
       {
          "description":"Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
-         "sources":[
-            "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-         ],
+         "sources":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
          "subtitle":"By Google",
          "thumb":"images/ForBiggerEscapes.jpg",
          "title":"For Bigger Escape"
@@ -46,9 +44,7 @@
       },
       {
          "description":"Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when you want to make Buster's big meltdowns even bigger. For $35. Learn how to use Chromecast with Netflix and more at google.com/chromecast.",
-         "sources":[
-            "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
-         ],
+         "sources":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
          "subtitle":"By Google",
          "thumb":"images/ForBiggerMeltdowns.jpg",
          "title":"For Bigger Meltdowns"
